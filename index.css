@@ -1,12 +1,21 @@
 *{
     color: red;
+    border: 2px dotted red;
 }
 .href{
     color: blue;
     font-size: xx-large;
 }
+.titile{margin:20px;
+        background-color: rgb(197, 167, 226);
+        padding: 30px;
+        border: 30px;
+       
+
+}
 h1{ font-size: 50px;
     text-align: center;
+    color: black;
 }
 .diva{text-align: center;
       background-color: bisque;
